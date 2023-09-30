@@ -2345,7 +2345,7 @@
 	display:inline-block;
 }
 .shop.single .product-des .rating li i{
-	color:#F7941D;
+	color:#3b78b6;
 }
 .shop.single .product-des .rating li.dark i{
 	color:#555;
@@ -2362,7 +2362,7 @@
 .shop.single .product-des .price span{
 	display:inline-block;
 	margin-right:15px;
-	color:#F7941D;
+	color:#3b78b6;
 }
 .shop.single .product-des .product-buy {
 	margin-top: 40px;
@@ -2417,7 +2417,7 @@
 	background:#3498db;
 }
 .shop.single .product-des .color ul li .two{
-	background:#F7941D;
+	background:#3b78b6;
 }
 .shop.single .product-des .color ul li .three{
 	background:#8e44ad;
@@ -2456,7 +2456,7 @@
 	font-size: 14px;
 }
 .shop.single .product-des .size ul li a:hover{
-	color:#F7941D;
+	color:#3b78b6;
 }
 .shop.single .quantity {
 	display: inline-block;
@@ -2500,7 +2500,7 @@
 	border: none;
 }
 .shop.single .quantity .button .btn:hover{
-	color:#F7941D;
+	color:#3b78b6;
 }
 .shop.single .quantity .input-number {
 	border: 1px solid #eceded;
@@ -2530,7 +2530,7 @@
 }
 .shop.single .add-to-cart .btn:hover{
 	color:#fff;
-	background:#F7941D;
+	background:#3b78b6;
 }
 .shop.single .add-to-cart .btn.min {
 	padding: 0 20px;
@@ -2550,7 +2550,7 @@
 	margin-left:10px;
 }
 .shop.single .cat a:hover{
-	color:#F7941D;
+	color:#3b78b6;
 }
 .shop.single .availability{
 	color:#333;
@@ -2585,7 +2585,7 @@
 }
 .shop.single .nav-tabs li a.active,
 .shop.single .nav-tabs li:hover a{
-	background:#F7941D;
+	background:#3b78b6;
 	color:#fff;
 	border-color:transparent;
 }
@@ -2616,7 +2616,7 @@
 	top: 9px;
 	height: 7px;
 	width: 7px;
-	background: #f7941d;
+	background: #3b78b6;
 	border-radius: 50%;
 }
 .shop.single .single-des p{}
@@ -2679,7 +2679,7 @@
 	display:inline-block;
 }
 .shop.single .ratting-main .single-rating ul li i{
-	color:#F7941D;
+	color:#3b78b6;
 	font-size:14px;
 }
 .shop.single .review-inner label {
