@@ -153,7 +153,7 @@
   width: 100px;
   height: 100px;
   border-radius: 100%;
-  background:#F7941D;
+  background:#65a7d3;
   -webkit-animation: preloader-fx 1.6s linear infinite;
   animation: preloader-fx 1.6s linear infinite;
 }
@@ -189,7 +189,7 @@
 }
 .btn:hover{
 	color:#fff;
-	background:#F7941D;
+	background:#65a7d3;
 }
 #scrollUp {
 	right: 10px;
@@ -213,7 +213,7 @@
 	box-shadow: 0px 4px 19px #00000038;
 }
 #scrollUp i:hover{
-	background:#F7941D;
+	background:#65a7d3;
 	color:#fff;
 }
 /*======================================
