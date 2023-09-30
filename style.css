@@ -4076,7 +4076,7 @@
 	display: block;
 }
 .shop-blog .shop-single-blog .content .more-btn:hover{
-	color:#F7941D;
+	color:#3b78b6;
 }
 /* Related Product */
 .related-product{
@@ -4124,7 +4124,7 @@
 	bottom: -1px;
 	height: 100%;
 	width: 3px;
-	background: #F7941D;
+	background: #3b78b6;
 }
 .main-sidebar .single-widget:last-child{
 	margin:0;
@@ -4167,7 +4167,7 @@
 	transition: all 0.4s ease;
 }
 .main-sidebar .search .button:hover {
-	background:#F7941D;
+	background:#3b78b6;
 	color:#fff;
 }
 /* Category List */
