@@ -1545,17 +1545,17 @@
 	padding-left: 35px;
 }
 .small-banner .single-banner h3 {
-	font-size: 22px;
+	font-size: 30px;
 	font-weight: 700;
 	text-transform: capitalize;
-	color: #333;
+	color: #fff;
 }
 .small-banner .single-banner h3 span{
 	color:#65a7d3 ;
 }
 .small-banner .single-banner p {
-	font-size: 14px;
-	color: #65a7d3 ;
+	font-size: 20px;
+	color: #fff ;
 	font-weight: 500;
 	margin-bottom: 5px;
 	text-transform: capitalize;
